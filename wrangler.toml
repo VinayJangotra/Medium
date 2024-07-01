@@ -7,7 +7,7 @@ compatibility_date = "2023-12-01"
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
 # id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiOTUzNmYyM2QtNGY1YS00YTVmLTlkYmQtMmE4MWY2NWU1Yjc2IiwidGVuYW50X2lkIjoiMzE1MWVkMGQwMTA5YTI2YzFiYzllZTlhZjRiYmYwNzI3ZTQwMjNmMmJiNDg2OWFmN2Y0OTNhZTg1MmQzNTEzNyIsImludGVybmFsX3NlY3JldCI6IjQ2Y2RiMjk3LWZiMDItNDAxYy05ODg3LTY4NjZhMDY1OGM0OCJ9.hsqmL4RNVZuhkPLEz3GMmQ5T6PVRWilhbqb8uFbtwP4"
 # [[r2_buckets]]
 # binding = "MY_BUCKET"
 # bucket_name = "my-bucket"
