@@ -25,5 +25,6 @@ model Blog{
   title String
   content String
  published Boolean @default(false)
+ // this authoe id refers to the id in the user
  author User @relation(fields: [authorId], references: [id])
 }
